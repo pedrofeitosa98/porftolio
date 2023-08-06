@@ -1,3 +1,6 @@
+/* http://css3developer.com/css-animations/
+© 2016 CSS3DEVELOPER.COM ALL RIGHTS RESERVED.*/
+
 import { createGlobalStyle } from 'styled-components'
 
 const GlobalAnimations = createGlobalStyle`
@@ -507,6 +510,3 @@ const GlobalAnimations = createGlobalStyle`
 `
 
 export default GlobalAnimations
-
-/* http://css3developer.com/css-animations/
-© 2016 CSS3DEVELOPER.COM ALL RIGHTS RESERVED.*/
